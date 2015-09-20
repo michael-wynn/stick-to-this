@@ -1,0 +1,35 @@
+{
+  "name": "stick-to-this",
+  "version": "1.0.0",
+  "description": "tiny utility to greatly reduce verbosity in using Promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michael-wynn/stick-to-this.git"
+  },
+  "keywords": [
+    "Promise",
+    "verbose",
+    "verbosity",
+    "function",
+    "bind",
+    "binding",
+    "secondary",
+    "this",
+    "_this",
+    "proxy",
+    "bluebird"
+  ],
+  "author": "michael-wynn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michael-wynn/stick-to-this/issues"
+  },
+  "homepage": "https://github.com/michael-wynn/stick-to-this#readme",
+  "devDependencies": {
+    "mocha": "^2.3.2"
+  }
+}
